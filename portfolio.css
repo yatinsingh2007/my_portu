@@ -1,0 +1,52 @@
+.Bankai{
+    background-color:rgb(242, 235, 235);
+    font-size: 20px;
+    border-bottom: 2px solid rgb(43, 41, 41);
+}
+h1{
+    color:rgb(159, 117, 67);
+    margin:10px;
+    border-bottom:2px solid rgb(7, 6, 6)
+}
+ul>li:first-child{
+    background-color: rgb(94, 129, 245);
+    margin-bottom: 20px;
+}
+.Killi{
+    background-color: darkgrey;
+    border-radius: 20px;
+    color:rgb(0, 0, 0);
+    border:2px solid black
+}
+#Aizen{
+    background-color: rgb(86, 117, 186);
+    margin: 10px;;
+}
+#Ichigo{
+    background-color: rgb(87, 159, 210);
+    margin: 10px
+}
+body{
+    margin:20px
+}
+#Akshith{
+    background-color:rgb(99, 137, 194);
+    margin:10px
+}
+#lmdp{
+    background-color: rgb(28, 225, 219);
+    margin: 10px;
+}
+li{
+    list-style: square;
+}
+.Killi:hover{
+    background-color: lightskyblue;
+}
+.baratam{
+    height: 100px;
+    padding-left: 700px;
+}
+.Dhanvin{
+    height: 100px;
+}
